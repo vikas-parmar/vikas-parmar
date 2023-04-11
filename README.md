@@ -43,7 +43,11 @@ Besides scripting, I like to hangout with friends 🛣️🏞️🌉
   
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=viksa7111&" alt="vikas parmar" /></p> 
 
+<p align="right">
+  
   [![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=viksa7111)](https://github.com/viksa7111/github-readme-stats) 
+  
+</p>
 
 </P> 
 
