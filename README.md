@@ -7,7 +7,7 @@
 Hi, I'm Vikas Parmar, A Self taught Web Developer 🚀 from India. I'm javaScript Enthusiast, Who loves building blocks in JavaScript 🧑‍💻📜 
 Besides scripting, I like to hangout with friends 🛣️🏞️🌉
 
-<img align="right" width="250" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" width="350" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 - 🔭 I’m Currently Working on : JavaScript & React based projects. 
 - 💻 Exploring various libraries using React!!
