@@ -2,7 +2,7 @@
 
 ## FrontEnd Website Developer!
 
-- 🔭 I’m Currently Working on : JavaScript & React. 
+- 🔭 I’m Currently Working on : JavaScript & React based projects. 
 - 💻 Exploring various libraries using React!!
 - 🌱 Getting Better At on javascript.
 - ⚡ Fun Fact : I Love To Travel & Code :)
@@ -10,11 +10,10 @@
 
 ### Connect With Me :
 
-
-[<img align="left" alt="VikasPanwar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/viksa7111/)
-[<img align="left" alt="VikasPanwar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/viksa7111/)
-[<img align="left" alt="VikasPanwar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/viksa7111/)
-[<img align="left" alt="VikasPanwar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/viksa7111/)
+[<img align="left" alt="VikasParmar | Twitter" width="30px" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />](https://twitter.com/viksa7111/)
+[<img align="left" alt="VikasParmar | Twitter" width="30px" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />](https://www.facebook.com/viksa7111/)
+[<img align="left" alt="VikasParmar | Instagram" width="30px" height="30" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" />](https://www.instagram.com/vicky_panwar__/)
+[<img align="left" alt="VikasParmar | LinkedIn" width="30px" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/viksa7111/)
 
 <br />
 
