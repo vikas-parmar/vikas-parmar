@@ -1,6 +1,13 @@
-### Hello peoples, I'm Vicky! <img src="https://github.com/viksa7111/VikasPanwar/blob/b55dd90d88388a938eeb2945ac814e8721087dfe/wave.gif" width="30px">
+### Hello folks, I'm Vicky! <img src="https://github.com/viksa7111/VikasPanwar/blob/b55dd90d88388a938eeb2945ac814e8721087dfe/wave.gif" width="30px">
 
-## FrontEnd Website Developer!
+## FrontEnd Website Developer! 
+
+  <p align="left"> <img src=https://komarev.com/ghpvc/?username=viksa7111 alt=viksa7111 /> </p>
+  
+Hi, I'm Vikas Parmar, A Self taught Web Developer 🚀 from India. I'm javaScript Enthusiast, Who loves building blocks in JavaScript 🧑‍💻📜 
+Besides scripting, I like to hangout with friends 🛣️🏞️🌉
+
+<img align="right" width="250" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 - 🔭 I’m Currently Working on : JavaScript & React based projects. 
 - 💻 Exploring various libraries using React!!
@@ -15,6 +22,7 @@
 [<img align="left" alt="VikasParmar | Instagram" width="30px" height="30" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" />](https://www.instagram.com/vicky_panwar__/)
 [<img align="left" alt="VikasParmar | LinkedIn" width="30px" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/viksa7111/)
 
+
 <br />
 
 ### Languages, Tools And Databases :
@@ -27,3 +35,15 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br />
+<br />
+  
+ <p align= "center">
+  
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=viksa7111&" alt="vikas parmar" /></p> 
+
+  [![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=viksa7111)](https://github.com/viksa7111/github-readme-stats) 
+
+</P> 
+
