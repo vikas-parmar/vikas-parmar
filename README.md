@@ -1,6 +1,6 @@
 ### <p align="right"> Hello folks, I'm Vicky! <img src="https://github.com/viksa7111/VikasPanwar/blob/b55dd90d88388a938eeb2945ac814e8721087dfe/wave.gif" width="30px"> </p>
 
-## FrontEnd Website Developer! 
+## <p align="right"> FrontEnd Website Developer! </p> 
 
   <p align="left"> <img src=https://komarev.com/ghpvc/?username=viksa7111 alt=viksa7111 /> </p>
   
