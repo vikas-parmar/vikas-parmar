@@ -4,7 +4,7 @@
 
   <p align="left"> <img src=https://komarev.com/ghpvc/?username=viksa7111 alt=viksa7111 /> </p>
   
-Hi, I'm A Self taught Web Developer 🚀 from India. I'm javaScript Enthusiast, Who loves building blocks in JavaScript 🧑‍💻📜 
+Hi, My name is Vikas Parmar and I'm from India. I'm A Self taught Web Developer 🚀 and javaScript Enthusiast, Who loves building blocks in JavaScript 🧑‍💻📜 
 Besides scripting, I like to hangout with friends 🛣️🏞️🌉
 
 <img align="right" width="350" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
