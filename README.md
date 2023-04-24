@@ -9,11 +9,11 @@ Besides scripting, I like to hangout with friends 🛣️🏞️🌉
 
 <img align="right" width="350" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-- 🔭 I’m Currently Working on : JavaScript & React based projects. 
+- 🔭 I’m Currently Working on : ReactJS with Redux Toolkit & Material UI. 
 - 💻 Exploring various libraries using React!!
-- 🌱 Getting Better At on javascript.
+- 🌱 Getting Better At on JavaScript.
 - ⚡ Fun Fact : I Love To Travel & Code :)
-- 🥅 2023 Goals : Want To Get Place In Reputed Company.
+- 🥅 2023 Goals : Want To Get Placed In A Reputed Company.
 
 ### Connect With Me :
 
