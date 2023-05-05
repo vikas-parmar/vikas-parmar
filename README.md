@@ -19,7 +19,7 @@ Besides scripting, I like to hangout with friends 🛣️🏞️🌉
 
 [<img align="left" alt="VikasParmar | Twitter" width="30px" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />](https://twitter.com/viksa7111/)
 [<img align="left" alt="VikasParmar | Twitter" width="30px" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />](https://www.facebook.com/viksa7111/)
-[<img align="left" alt="VikasParmar | Instagram" width="30px" height="30" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" />](https://www.instagram.com/vp.vikasparmar/)
+[<img align="left" alt="VikasParmar | Instagram" width="30px" height="30" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" />](https://www.instagram.com/vikasparmar___/)
 [<img align="left" alt="VikasParmar | LinkedIn" width="30px" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/viksa7111/)
 
 
