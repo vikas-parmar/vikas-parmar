@@ -48,7 +48,7 @@ Welcome to my coding world! I'm a self-taught software developer and JavaScript 
 </div>
 
 ## GitHub ⭐
-<div>
+<div align="center">
   
   ![Vikas Parmar](https://github-readme-streak-stats.herokuapp.com/?user=vikas-parmar&)
   ![Vikas Parmar](https://github-readme-stats.vercel.app/api?username=vikas-parmar)
