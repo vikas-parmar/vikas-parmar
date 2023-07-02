@@ -1,4 +1,7 @@
-### ![Vikas Parmar  GitHub Cover](https://github.com/vikas-parmar/vikas-parmar/assets/122597785/0542cd1a-bb71-4213-8e61-6bf21c0ba857)
+
+### ![Vikas Parmar | GitHub Cover](https://github.com/vikas-parmar/vikas-parmar/assets/122597785/81b2914d-d6a3-4506-9a46-e9690936e69e)
+
+
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=viksa7111 alt=viksa7111 /> </p>
 
 <div align="center">
