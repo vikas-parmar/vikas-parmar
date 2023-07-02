@@ -1,6 +1,4 @@
-
-### ![Vikas Parmar | GitHub Cover](https://github.com/vikas-parmar/vikas-parmar/assets/122597785/81b2914d-d6a3-4506-9a46-e9690936e69e)
-
+### [ <img align="center" alt="vikas parmar" src="https://github.com/vikas-parmar/vikas-parmar/assets/122597785/81b2914d-d6a3-4506-9a46-e9690936e69e" /> ](https://vikasparmar.vercel.app)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=viksa7111 alt=viksa7111 /> </p>
 
@@ -21,7 +19,7 @@ Welcome to my coding world! I'm a self-taught software developer and JavaScript 
 [<img align="left" alt="VikasParmar | LinkedIn" width="30px" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/vikas-parmar/)
 
 <br />
-
+<br />
 
 ## Languages, Tools And Databases 💻⚡
 
@@ -50,7 +48,7 @@ Welcome to my coding world! I'm a self-taught software developer and JavaScript 
 </div>
 
 ## GitHub ⭐
-<div align="center">
+<div>
   
   ![Vikas Parmar](https://github-readme-streak-stats.herokuapp.com/?user=vikas-parmar&)
   ![Vikas Parmar](https://github-readme-stats.vercel.app/api?username=vikas-parmar)
