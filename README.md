@@ -50,6 +50,6 @@ Welcome to my coding world! I'm a self-taught software developer and JavaScript 
 ## GitHub ⭐
 <div align="center">
   
-  ![Vikas Parmar](https://github-readme-streak-stats.herokuapp.com/?user=vikas-parmar&)
-  ![Vikas Parmar](https://github-readme-stats.vercel.app/api?username=vikas-parmar)
+  ![Vikas Parmar](https://github-readme-streak-stats.herokuapp.com/?user=vikas-parmar&theme=github-dark-blue&hide_border=true)
+  ![Vikas Parmar](https://github-readme-stats.vercel.app/api?username=vikas-parmar&show_icons=true&locale=en&theme=github_dark&hide_border=true)
 </div>
