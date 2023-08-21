@@ -1,4 +1,7 @@
-### [ <img align="center" alt="vikas parmar" src="https://github.com/vikas-parmar/vikas-parmar/assets/122597785/81b2914d-d6a3-4506-9a46-e9690936e69e" /> ](https://vikasparmar.vercel.app)
+<div align="center">
+  
+### [![Vikas Parmar Dev](https://github.com/vikas-parmar/vikas-parmar/assets/122597785/37f91093-0a4e-434d-b526-da16b463944f)](https://vikas-parmar.github.io/)
+</div>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=viksa7111 alt=viksa7111 /> </p>
 
