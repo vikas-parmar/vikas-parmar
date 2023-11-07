@@ -49,3 +49,5 @@ Welcome to my coding world! I'm a self-taught software developer and JavaScript 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </div>
+
+[![An image of @vikasparmar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikasparmar)](https://holopin.io/@vikasparmar)
