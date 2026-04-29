@@ -1,43 +1,58 @@
 <div align="center">
   
-### [![Vikas Parmar Dev](https://github.com/vikas-parmar/vikas-parmar/assets/122597785/37f91093-0a4e-434d-b526-da16b463944f)](https://vikas-parmar.github.io/)
+### [![Vikas Parmar](https://github.com/vikas-parmar/vikas-parmar/blob/Main/vikas-cover.gif)](https://vikas-parmar.github.io/)
 </div>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=viksa7111 alt=Vikas Parmar /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viksa7111&color=blue" alt="Vikas Parmar" /> </p>
 
-  
 # WELCOME TO MY OBSERVATORY 🚀
 
-<img align="right" width="350" alt="GIF" src="https://github.com/vikas-parmar/vikas-parmar/assets/122597785/2248e6be-a955-422d-83ab-4b75da904c35" />
+<img align="right" width="350" alt="Software Engineering GIF" src="https://github.com/vikas-parmar/vikas-parmar/assets/122597785/2248e6be-a955-422d-83ab-4b75da904c35" />
 
-Greetings, folks 👋, I'm Vikas Parmar, a Software Engineer dedicated to building scalable, AI-driven applications and crafting insightful articles on software development. 🚀
+Greetings, folks 👋, I'm **Vikas Parmar**, a Software Engineer and AI-Native Builder. 
 
-Over the past year, my learning curve has been exponential. I have transitioned from being a front-end-focused developer to mastering full-stack and backend technologies, with a strong grasp of Node.js, SQL, Supabase, Python, C, and RDBMS (basics). My expertise extends beyond development to software architecture, project flows, and engineering best practices.
+A year ago, I was focused on the frontend—building interfaces and learning how systems worked from the outside. Today, I think in **systems, flows, and trade-offs.** I don’t just see features; I see architecture. I naturally ask where a system will break at scale and what abstractions are necessary to keep things simple but resilient.
 
-For the past few months, I have been actively building AI-driven applications, developing two products that integrate AI for enhanced functionality. I have honed my skills in designing backend architectures, structuring scalable APIs, and ensuring clean, maintainable code with proper error handling, loading state management, and optimized database interactions.
+I am currently building **[Occyra](https://occyra.com)**, a modern AI-driven event management platform. This isn't just a project; it’s a real product where I’m handling high-level system design, backend architecture, and complex UX flows. Alongside Occyra, I explore how AI acts as a core layer within systems to amplify thinking and accelerate development without losing clarity.
 
-I have a keen eye for user interfaces, design flows, and backend logic, ensuring that the applications I build are not only functionally robust but also intuitive and efficient. My current focus revolves around mastering software engineering principles, development workflows, and programming standards, ensuring that every project follows industry best practices.
+### 🏗️ My Core Expertise:
 
-My Core Expertise:
-
-- **Programming Languages:** JavaScript, TypeScript, Python, C
-- **Back-end development:** Node.js, Express.js, TRPC, SQL, Supabase, REST APIs
-- **Frontend & UI:** React.js, Next.js, Tailwind CSS, ShadCN, Material UI
-- **Software Engineering & Architecture:** API design, database structuring, scalable architectures
-- **Deployment & DevOps:** Vercel, Docker, Git, CI/CD pipelines
-- **Best Practices:** Clean coding, modular programming, robust error handling, performance optimization
+* **Systems Thinking:** Architecting scalable products, database structuring, and API design.
+* **AI-Native Workflow:** Leveraging tools like Cursor and Claude Code to explore solutions and debug complex flows.
+* **Full-Stack Development:** Specialized in the "Chosen Stack" for reliability and performance.
+* **Product Engineering:** Building with a focus on real-world constraints, simple UX, and robust logic.
 
 <br>
 
 ## LANGUAGES, TOOLS & TECHNOLOGIES 💻⚡
 
-<p align="center">
-  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,python,cpp,react,nextjs,typescript,redux,regex,nodejs,nestjs,expressjs,mongodb,firebase,mysql,postgresql,postman,docker,jest,netlify,vercel)](https://skillicons.dev)
+**I use what fits the problem. These are my go-to tools for building reliable, backend-heavy system:**
+* **Core:** JavaScript, TypeScript, Python
+* **Frontend:** Next.js (App Router), React, Tailwind, ShadCN
+* **Backend:** Node.js, Fastify, Express, tRPC, PostgreSQL
+* **Infra & Tooling:** Docker, Vercel, Stripe, Razorpay, Clerk, Resend, Firebase, Supabase, MongoDB
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,express,postgres,supabase,docker,vercel,tailwind,figma,git,postman" />
+  </a>
 </p>
 
 <br>
 
 ## HOLOPIN BADGES
 
-[![An image of @vikasparmar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikasparmar)](https://holopin.io/@vikasparmar)
+[![An image of @vikasparmar's Holopin badges](https://holopin.me/vikasparmar)](https://holopin.io/@vikasparmar)
+
+---
+
+### 📬 Let's Connect
+If you’re building something interesting or thinking deeply about systems—I’d love to connect.
+
+[Reach out me!](https://linktr.ee/vikasparmarr)
+
+<hr>
+
+<div align="left">
+  <i>"I don’t enjoy over-engineering—but I also don’t build things that collapse under growth. There’s always a balance."</i>
+</div>
